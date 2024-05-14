@@ -60,3 +60,4 @@ function search() {
 
 // Attach event listener to input field to trigger search on each character entry
 document.getElementById("searchInput").addEventListener("input", search);
+  q
